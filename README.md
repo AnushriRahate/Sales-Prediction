@@ -1,1 +1,1 @@
-# Sales-Prediction
+# Sales-Predictor
